@@ -9,7 +9,7 @@
 
 ## Tech Stack
 
-- ReactJS, HTML5, CSS, Tailwindcss
+- ReactJS, HTML5, CSS, Tailwindcss, Javascript, Vite, PROXY(API)
 - Design by ReactJS, Tailwindcss, custom css
 - Structured use HTML5 & ReactJS component
 - Custom Hook, useState, useEffect, prop drilling
